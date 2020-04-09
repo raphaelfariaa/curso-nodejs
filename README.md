@@ -9,4 +9,4 @@ Para iniciar, acesse o prompt de comando e execute o comando abaixo:
 
 node index.js
 
-O servidor da aplicação utilizará a porta 3000. Assim que subir a aplicação, é possível realizar a API utilizando qualquer ferramenta de teste serviços RESTful.
+O servidor da aplicação utilizará a porta 3000. Assim que subir a aplicação, é possível utilizar a API usando qualquer ferramenta de teste serviços RESTful.
